@@ -1,7 +1,7 @@
 ---
-title: "Climate Change Hazard Monitoring and Management"
-date: 2015
-
+title: "Climate Change Hazard Monitoring and Sustainability"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
 This project...
 
