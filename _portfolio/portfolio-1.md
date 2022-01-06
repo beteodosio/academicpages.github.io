@@ -6,7 +6,7 @@ collection: portfolio
 
 Shallow footing systems are prone to damage due to the shrinking and swelling of the ground. A paradigm shift to a more sustainable design prompts this project to develop a practical three-dimensional finite element model to perform parametric simulations considering the soil and footing behaviour and interaction. This enabled a deeper understanding of the soil-structure interaction and improved the footing design accuracy. This model was further used to propose a novel method to design connections for prefabricated footings and to investigate their global performance and sustainability.
 
-The graphic below shows the developed hydro-mechanical model that was used in the study to determine the behaviour of both soil and footing systems.
+The graphic below shows the developed hydro-mechanical model that was used in the study to determine the behaviour of both soil and footing systems. This specific numerical simulation was based on the site inspection conducted by Jie Li, Donald Cameron and Gang Ren in Adelaide, Australia in 2014. The owner reported that the walls and ceilings of their house was cracking. Based on the inspection, the cracking was due to the differential movement of the reactive soil due to the stormwater and pipe leakages at the swelling ground area in the animation below. This had caused a differential movement of around 100 mm causing damage to both the superstructure and substructure of the house.
 <br/><img src='/images/soil_move.gif'>
 
 Publications: 
