@@ -1,6 +1,6 @@
 ---
 title: "Innovative and Sustainable Residential Footing Systems"
-excerpt: "<br/><img src='soil_move.mp4'>"
+excerpt: "<br/><img src='soil_move.gif'>"
 collection: portfolio
 ---
 
