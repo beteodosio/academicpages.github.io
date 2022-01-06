@@ -13,5 +13,9 @@ Publications:
   (https://www.mdpi.com/1996-1073/14/22/7515)
 * Teodosio, B., Baduge, K.S.K. and Mendis, P., 2021. A review and comparison of design methods for raft substructures on expansive soils. Journal of Building Engineering, p.102737.
   (https://doi.org/10.1016/j.jobe.2021.102737)
+* Teodosio, B., Baduge, K.S.K. and Mendis, P., 2020. Simulating reactive soil and substructure interaction using a simplified hydro-mechanical finite element model dependent on soil saturation, suction and moisture-swelling relationship. Computers and Geotechnics, 119, p.103359.
+  (https://doi.org/10.1016/j.compgeo.2019.103359)
+* Teodosio, B., Baduge, K.S.K. and Mendis, P., 2020. Relationship between reactive soil movement and footing deflection: A coupled hydro-mechanical finite element modelling perspective. Computers and Geotechnics, 126, p.103720.
+  (https://doi.org/10.1016/j.compgeo.2020.103720)
 * Teodosio, B., Kristombu Baduge, K.S., Mendis, P. and Heath, D.J., 2019. Prefabrication of substructures for single-detached dwellings on reactive soils: a review of existing systems and design challenges. Australian Journal of Civil Engineering, 17(2), pp.120-133.
   (https://doi.org/10.1080/14488353.2019.1657056)
