@@ -1,6 +1,6 @@
 ---
 title: "Climate Change Hazard Monitoring and Sustainability"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/mallacoota.gif'>"
 collection: portfolio
 ---
 This project...
