@@ -13,7 +13,7 @@ Creative problem solver with significant experience in developing innovative and
 
 Education
 ======
-* Ph.D in Engineering, The University of Melbourne, Australia
+* Ph.D. in Engineering, The University of Melbourne, Australia
 * M.S. in Engineering Science (Environmental), Monash University, Australia
 * M.S. in Civil Engineering, Pusan National University, South Korea
 * B.S. in Civil Engineering, De La Salle University, Philippines
