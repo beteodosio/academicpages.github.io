@@ -1,10 +1,10 @@
 ---
 title: "Innovative and Sustainable Residential Footing Systems"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='fig_behaviour1.png'>"
 collection: portfolio
 ---
 
-This project...
+Insignificant sustainable advancements of shallow footing systems and their susceptibility to reactive soil shrink-swell movement-induced damage prompt the need to enhance the design and construction of substructures founded on reactive or expansive soils. A practical three-dimensional coupled hydro-mechanical finite element model was developed to perform parametric simulations, which enabled a deeper understanding of the soil-structure interaction and improved footing design equations. This model was further used to propose a novel method to design connections for prefabricated footings and to investigate their global performance and sustainability.
 
 Publications: 
 * Teodosio, B., Baduge, K.S.K. and Mendis, P., 2021. Design of prefabricated footing connection using a coupled hydro‐mechanical finite element model. Structural Concrete.
