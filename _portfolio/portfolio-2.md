@@ -1,10 +1,18 @@
 ---
 title: "Natural and Anthropogenic Ground Movements"
-excerpt: "<br/><img src='/images/dinsar.gif'>"
+excerpt: "The mapping of potential natural and anthropogenic ground movement hazards is a major concern for risk prevention plans. This project aims to monitor and assess possible geohazards including reactive soil movements, subsidence, landslides and other types of ground motion that affects our communities. <br/><img src='/images/dinsar.gif'>"
 collection: portfolio
 ---
+The mapping of potential hazards such as reactive soil movements, subsidence, landslides and earthquakes due to natural and anthropogenic ground movement is the focus of this project. This project is closely related to my previously discussed projects and aims to monitor and manage geohazards for more resilient communities.
 
-This project...
+Different methods will be used in the investigations including
+* Interfereometric Synthetic Aperture Radar (InSAR)
+* Hydro-mechanical finite elemnt modelling (FEM)
+* Deep Learning (DL)
+* Convolutional Neural Network (CNN)
+
+One of the investigations analysed the Western Melbourne area that is prone to significant ground movement due to reactive soils shown below.
+<br/><img src='/images/dinsar.gif'>
 
 Publications:
 * Gedara, S.D.D.A., Wasantha, P.L.P., Teodosio, B. and Li, J., 2021. An Experimental Study of the Size Effect on Core Shrinkage Behaviour of Reactive Soils. Transportation Geotechnics, p.100709.
