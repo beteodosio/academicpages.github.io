@@ -1,10 +1,13 @@
 ---
 title: "Innovative and Sustainable Residential Footing Systems"
-excerpt: "<br/><img src='/images/soil_move.gif'>"
+excerpt: "Shallow footing systems are prone to damage due to the shrinking and swelling of the ground. Through multiphysics modelling, the concept of sustainability and prefabrication have been applied to develop innovative design of residential footings.<br/><img src='/images/soil_move.gif'>"
 collection: portfolio
 ---
 
 Shallow footing systems are prone to damage due to the shrinking and swelling of the ground. A paradigm shift to a more sustainable design prompts this project to develop a practical three-dimensional finite element model to perform parametric simulations considering the soil and footing behaviour and interaction. This enabled a deeper understanding of the soil-structure interaction and improved the footing design accuracy. This model was further used to propose a novel method to design connections for prefabricated footings and to investigate their global performance and sustainability.
+
+The graphic below shows the developed hydro-mechanical model that was used in the study to determine the behaviour of both soil and footing systems.
+<br/><img src='/images/soil_move.gif'>
 
 Publications: 
 * Teodosio, B., Baduge, K.S.K. and Mendis, P., 2021. Design of prefabricated footing connection using a coupled hydro‐mechanical finite element model. Structural Concrete.
