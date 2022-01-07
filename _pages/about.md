@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently holding a postdoctoral researcher role at the Institute of Sustainable Industries and Liveable Cities (ISILC) at Victoria University since June 2021. ISILC has a cross-disciplinary research centre creating solutions for present social, economic, environmental and technical challenges. My research involves the cumulating experiences throughout my career, focusing on natural and anthropogenic mechanical and biogeochemical soil behaviour. I am using novel methodologies such as 
+I am currently holding a postdoctoral researcher role at the Institute of Sustainable Industries and Liveable Cities (ISILC) at Victoria University since June 2021. ISILC is a cross-disciplinary research centre creating solutions for present social, economic, environmental and technical challenges. My research involves the cumulating experiences throughout my career, focusing on natural and anthropogenic mechanical and biogeochemical soil behaviour. I am using novel methodologies such as 
 - multi-physics finite element modelling (FEM), 
 - artificial intelligence (AI) algorithms and 
 - interferometric synthetic aperture radar (InSAR). 
