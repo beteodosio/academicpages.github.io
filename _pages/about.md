@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently holding a postdoctoral researcher role at the Institute of Sustainable Industries and Liveable Cities (ISILC) at Victoria University since June 2021. ISILC is a cross-disciplinary research centre creating solutions for present social, economic, environmental and technical challenges. My research involves the cumulating experiences throughout my career, focusing on natural and anthropogenic mechanical and biogeochemical soil behaviour. I am using novel methodologies such as 
-- multi-physics finite element modelling (FEM), 
-- artificial intelligence (AI) algorithms and 
-- interferometric synthetic aperture radar (InSAR). 
+I am currently holding a postdoctoral researcher role at the Institute of Sustainable Industries and Liveable Cities (ISILC) at Victoria University since June 2021. ISILC is a cross-disciplinary research centre creating solutions for present social, economic, environmental and technical challenges. My research involves the cumulating experiences throughout my career, focusing on multi-disciplinary sustainable and innovative design and construction. The design and construction of built environment are commonly based on standards that emphasise the structural aspects and safety of the structure. Factors related to environmental and economic criteria are rarely given. Considering the growing demand for sustainable approaches driven mainly by climate change concerns, I am using novel methodologies such as 
+
+- Sustainability analysis (life cycle cost, LCC, and life cycle assessment, LCA),
+- Multi-physics finite element modelling (FEM), and
+- Artificial intelligence (AI) and machine learning (ML) algorithms.
 
 Research experience
 ======
 I have had the opportunity to work in excellent and supportive environments throughout my career as a researcher. I completed my PhD at the University of Melbourne, Australia, where I was trained by Prof Priyan Mendis, an internationally renowned professor in infrastructure engineering and the director of the ARC Centre for Advanced Manufacturing of Prefabricated Modular Housing (ARC-CAMP.H). I also worked with Dr Kasun Shanaka Kristombu Baduge, a postdoctoral research fellow and the manager at ARC CAMP.H. During my PhD, I also had the opportunity to work at the University of Alberta, Canada with Prof Mohamed Al-Hussein, the chair in the automation and industrialisation of building construction in the Natural Sciences and Engineering Research Council of Canada. 
-
-Before pursuing my PhD, I obtained my Master of Engineering Science by Research degree at Monash University, Australia. I worked with A/Prof Edoardo Daly, a leading urban and ecosystem hydrologist at Monash University. I also had the opportunity to work with A/Prof Valentijn Pauwels, an excellent scientist knowledgeable on land-atmosphere modelling and remote sensing. Prior to this, I worked as a researcher at Pusan National University, South Korea for two years and De La Salle University, Philippines for more than a year. I had the opportunity to collaborate with Tokyo Institute of Technology, Japan (Prof Nobuaki Otsuki and A/Prof Takahiro Nishida) and Pusan National University, South Korea (Prof Jaehun Ahn) in numerous civil and environmental engineering research projects focusing on sustainable concrete and pervious pavements, respectively.
 
 Industry experience
 ======
