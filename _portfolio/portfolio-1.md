@@ -12,7 +12,7 @@ The graphic below shows the developed hydro-mechanical model that was used in th
 
 This project developed a connection for prefabricated residential slab foundaiton of single-detached dwellings on reactive soil using a combined soil-structure contact analysis and strut-and-tie model approach. The developed system was observed to have satisfactory performance, potentially overcoming most construction limitations of conventional monolithic cast-in-place raft substructures, such as faster, safer, and more sustainableconstruction,whileprovidingcomparable strength and serviceability.
 
-<br/><img src='/images/prefab_connection.jpg'>
+<br/><img src='/images/prefab_connection.JPG'>
 
 A multi-criteria evaluation, using numerical simulations, life cycle cost (LCC) analysis, and life cycle assessment (LCA), observed that the developed prefabricated slab foundation performs better than conventional waffle rafts due to the optimised material layout and could be a more sustainable option when reusability is considered. Conversely, the cost of the prefabricated slab was higher than the conventional waffle raft due to the larger number of steel reinforcements required. The cost percentage difference can however be reduced to 5% when constructed on highly reactive soils with a larger house floor area. The prefabricated slab option can be viable to constructions requiring rapid substructure installations such as quarantine hotels, refugee camps, disaster accommodations, and large-scale commercial buildings.
 
