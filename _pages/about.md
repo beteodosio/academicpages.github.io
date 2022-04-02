@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently holding a postdoctoral researcher role at the Institute of Sustainable Industries and Liveable Cities (ISILC) at Victoria University since June 2021. ISILC is a cross-disciplinary research centre creating solutions for present social, economic, environmental and technical challenges. My research involves the cumulating experiences throughout my career, focusing on multi-disciplinary sustainable and innovative design and construction. The design and construction of built environment are commonly based on standards that emphasise the structural aspects and safety of the structure. Factors related to environmental and economic criteria are rarely given. Considering the growing demand for sustainable approaches driven mainly by climate change concerns, I am using novel methodologies such as 
+I am currently holding a postdoctoral researcher role at the Institute of Sustainable Industries and Liveable Cities (ISILC) at Victoria University since June 2021. ISILC is a cross-disciplinary research centre creating solutions for present social, economic, environmental and technical challenges. My research interests include on sustainable engineering, innovative design, and construction automation. The design and construction of built environment are commonly based on standards that emphasise the structural aspects and safety of the structure. Factors related to environmental and economic criteria are rarely given. Considering the growing demand for sustainable approaches driven mainly by climate change concerns, I am using novel methodologies such as 
 
 - Sustainability analysis (life cycle cost, LCC, and life cycle assessment, LCA),
 - Multi-physics finite element modelling (FEM), and
@@ -20,7 +20,7 @@ I have had the opportunity to work in excellent and supportive environments thro
 
 Industry experience
 ======
-I had the opportunity to work as a Data Analyst and Scientist at Envirosuite, Australia. This position in the industry had allowed me to perform data analysis and data science related to aviation noise management and sound recognition using deep learning neural networks (e.g., ANN and CNN).
+I had the opportunity to work as a Data Analyst and Scientist at Envirosuite, Australia. This position in the industry had allowed me to perform data analysis and data science related to aviation noise management and sound recognition using deep learning neural networks (e.g., ANN and CNN). I had an experience as an innovation engineering consultant whilst pursuing my PhD at ARC-CAMP.H, collaborating with industry partners in solving civil engineering challenges related to soil movement and structural prefabrication.
 
 Global network
 ======
