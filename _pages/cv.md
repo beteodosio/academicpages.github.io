@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Creative problem solver with significant experience in developing innovative and data‑driven projects. Strong expertise in natural and anthropogenic ground movements and climate change hazards, which discover insight amidst results.
+Creative problem solver with significant experience in developing innovative and data‑driven projects. Strong expertise in sustainable design, automation in construction, and environmental intelligence.
 
 Education
 ======
