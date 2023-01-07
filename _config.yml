@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Dr Bertrand Teodosio (Research Fellow)"
+name                     : &name "Dr Birch Teodosio (Renewable Gas Project Officer)"
 description              : &description "Personal website"
 url                      : "https://beteodosio.github.io" # the base hostname & protocol for your site e.g. "https://beteodosio.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bertrand Teodosio"
+  name             : "Dr Birch Teodosio"
   avatar           : "https://beteodosio.github.io/images/profile_pic.jpeg"
-  bio              : "Sustainability and innovative design"
+  bio              : "Renewable Gas Project Officer"
   location         : "Melbourne, Australia"
-  employer         : "Victoria University"
+  employer         : "Energy Networks Australia"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=huBGQ5QAAAAJ"
   email            :
