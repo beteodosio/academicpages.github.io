@@ -82,18 +82,18 @@ analytics:
 author:
   name             : "Dr Birch Teodosio"
   avatar           : "https://beteodosio.github.io/images/profilephoto2023June.jpg"
-  bio              : "Renewable Gas Project Officer"
-  location         : "Melbourne, Australia"
+  bio              : "Project Officer"
+  location         : 
   employer         : "Energy Networks Australia"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=huBGQ5QAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Bertrand-Teodosio"
-  uri              : "https://www.vu.edu.au/research/bertrand-teodosio"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "/photos/beteodosio/"
+  flickr           : 
   facebook         :
   foursquare       :
   github           : "beteodosio"
@@ -105,7 +105,7 @@ author:
   linkedin         : "bertranteo/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3909-4054"
   pinterest        :
-  soundcloud       : "user-678201219"
+  soundcloud       : 
   stackoverflow    : 
   steam            :
   tumblr           :
